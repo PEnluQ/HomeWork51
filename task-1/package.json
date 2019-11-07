@@ -1,0 +1,17 @@
+{
+  "name": "index-1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-scripts": "0.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "../index-1/node_modules/.bin/react-scripts start",
+    "build": "../index-1/node_modules/.bin/react-scripts build",
+    "test": "../index-1/node_modules/.bin/react-scripts test --env=jsdom",
+    "eject": "../index-1/node_modules/.bin/react-scripts eject"
+  }
+}

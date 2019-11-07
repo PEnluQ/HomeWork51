@@ -1,0 +1,14 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 15px;
+    background: url("https://avatars.mds.yandex.net/get-pdb/477388/38587d77-6413-4ee5-bc6b-345d84e62b59/s1200?webp=false");
+    min-height: 920px;
+}
+.App {
+    display: flex;
+}
+#film-block {
+    margin-left: 220px;
+    margin-top: 100px;
+}

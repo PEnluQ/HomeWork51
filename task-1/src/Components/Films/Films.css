@@ -1,0 +1,22 @@
+.film-blocks {
+    border: 1px solid gray;
+    width: 222px;
+    margin-right: 30px;
+    box-shadow: 2px 2px 5px 0 rgba(50, 50, 50, 0.75);
+    background: white;
+    cursor: pointer;
+}
+.film-blocks:hover{
+    box-shadow: 2px 2px 5px 0 rgba(0, 82, 204);
+}
+.film-blocks__title {
+    margin-left: 5px;
+}
+.film-blocks__date {
+    color: gray;
+    margin-left: 5px;
+    margin-top: -15px;
+}
+.film-blocks__img {
+    min-width: 222px;
+}
